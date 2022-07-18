@@ -1,0 +1,25 @@
+.services-details{
+    .s-detailsImg{
+        & img{
+            margin-bottom: 90px;
+        }
+    }
+    .s-details-caption{
+        & h2{
+            color: $theme_color;
+            font-weight: 700;
+            font-size: 25px;
+            margin-bottom: 38px;
+
+        }
+        .details-pera1{
+            margin-bottom: 38px;
+        }
+        .details-pera2{
+            margin-bottom: 38px;
+        }
+        .details-pera3{
+            margin-bottom: 65px;
+        }
+    }
+}

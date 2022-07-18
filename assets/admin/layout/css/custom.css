@@ -1,0 +1,11 @@
+.page-header .page-header-top {
+    height: 80px;
+}
+
+.page-header .page-header-menu .hor-menu .navbar-nav > li .dropdown-submenu > a:after {
+	display: none;
+}
+
+.login .content .form-actions {
+	padding: 0
+}
